@@ -1,0 +1,1 @@
+[12-Jun-2015 05:36:04 America/New_York] PHP Fatal error:  Call to undefined method Dynamo::getOneWhere() in /home/plp4eder/public_html/webservice/complex_add_community.php on line 34

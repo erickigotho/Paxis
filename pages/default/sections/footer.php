@@ -1,0 +1,1 @@
+Developed by <a href="http://theappealdesign.com" target="_blank">Appeal Design</a> <!--<a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a>-->
